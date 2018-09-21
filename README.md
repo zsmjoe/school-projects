@@ -10,4 +10,12 @@ Our data consists of daily stock price changes of the banking institution Goldma
 
 main skills:  Web scrapping, linear regression, data visulization.
 
-2.
+2. health tags prediction
+    
+    context:
+    generally we implement a machine learning algorithm to find all the effective health indicators.
+    Considering all the data that we have from DRESS (La Direction de la recherche, des études, de l’évaluation et des statistiques), the majority of the varibales are made up with natural language, so we emplot the NLP to find a solution.
+    
+    main skills: NLP, basic machine learning algorithms (decision tree, random forest, LR, SVM)
+    
+    
