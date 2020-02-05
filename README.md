@@ -18,4 +18,7 @@ main skills:  Web scrapping, linear regression, data visulization.
     
     main skills: NLP, basic machine learning algorithms (decision tree, random forest, LR, SVM)
     
+
+3. Naive Bayesian with mapreduce
+    
     
